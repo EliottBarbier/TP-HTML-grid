@@ -8,6 +8,8 @@ h2 {
   border-top: 2px solid blue;
 }
 
+
+
 #main {
   display: flex;
   flex-direction: column;
@@ -27,6 +29,7 @@ h2 {
   margin: 5px;
   background-color: lightcoral;
 }
+
 
 #instructions {
   width: 600px;
